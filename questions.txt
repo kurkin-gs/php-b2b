@@ -1,0 +1,8 @@
+﻿Вопрос №1
+Нет
+
+Вопрос №2
+Интересуюсь фронтендом, поэтому:
+https://learn.javascript.ru/
+https://learn-reactjs.ru
+Адам Фримен - Angular для профессионалов
